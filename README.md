@@ -1,5 +1,7 @@
 MongoDB tomcat utils includes:
 
-MongoClient resource factory
+Tomcat  resource factory MongoClient
+
 Mongo JAAS adapter
-Infinispan resource factory
+
+Tomcat resource factory for Infinispan cache
