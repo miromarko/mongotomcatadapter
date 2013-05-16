@@ -1,4 +1,4 @@
-This is open source software released dual licensed with open source under GPL v.3 License:
+This project is dual licensed with open source under GPL v.3 License:
 
  Copyright (C) 2013 Miroslav MARKO <miromarko@gmail.com>
  This program is free software: you can redistribute it and/or modify
